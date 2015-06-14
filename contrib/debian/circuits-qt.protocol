@@ -1,0 +1,11 @@
+[Protocol]
+exec=circuits-qt '%u'
+protocol=circuits
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

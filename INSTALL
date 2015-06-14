@@ -1,0 +1,9 @@
+Building Circuits
+
+See doc/readme-qt.rst for instructions on building Circuits QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Circuits.
+
+See doc/build-*.txt for instructions on building circuitsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Circuits.

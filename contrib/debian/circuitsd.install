@@ -1,0 +1,2 @@
+debian/bin/circuitsd usr/bin
+src/circuitsd usr/lib/circuits
